@@ -180,27 +180,26 @@
     },
     {
       "id": 8,
-      "name": "Floral Buttoned Top Black",
+      "name": "Casual-T-shirt",
       "images": [
-        "https://z.nooncdn.com/products/tr:n-t_400/v1605106553/N40764340V_1.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_240/v1605106553/N40764340V_4.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1605106553/N40764340V_3.jpg"
+        "https://z.nooncdn.com/products/tr:n-t_400/v1612510700/N44171588V_1.jpg",
+        "https://z.nooncdn.com/products/tr:n-t_400/v1612510700/N44171588V_2.jpg",
+        "https://z.nooncdn.com/products/tr:n-t_400/v1612510700/N44171588V_3.jpg"
       ],
       "colors": [
-        "black",
-        "white"
+        "yellow"
       ],
-      "price": 514,
-      "discount": 10,
+      "price": 1000,
+      "discount": 5,
       "currency": "USD",
       "sizes": [
-        "XS",
+        "XL",
         "L"
       ],
       "status": "popular",
-      "quantity": 4,
-      "categoryId": 2,
-      "type": "Sweatshirts"
+      "quantity": 2,
+      "categoryId": 1,
+      "type": "Tank Tops"
     },
     {
       "id": 9,
@@ -367,29 +366,6 @@
     },
     {
       "id": 16,
-      "name": "Casual-T-shirt",
-      "images": [
-        "https://z.nooncdn.com/products/tr:n-t_400/v1612510700/N44171588V_1.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1612510700/N44171588V_2.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1612510700/N44171588V_3.jpg"
-      ],
-      "colors": [
-        "yellow"
-      ],
-      "price": 1000,
-      "discount": 5,
-      "currency": "USD",
-      "sizes": [
-        "XL",
-        "L"
-      ],
-      "status": "popular",
-      "quantity": 2,
-      "categoryId": 1,
-      "type": "Tank Tops"
-    },
-    {
-      "id": 17,
       "name": "Long Sleeve Shirt",
       "images": [
         "https://z.nooncdn.com/products/tr:n-t_400/v1631424164/N49104477V_1.jpg",
