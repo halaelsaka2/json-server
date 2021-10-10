@@ -16,26 +16,24 @@
   "products": [
     {
       "id": 1,
-      "name": "T-shirt-Summer",
+      "name": "Round Neck Dress",
       "images": [
-        "https://z.nooncdn.com/products/tr:n-t_400/v1573994484/N32035406V_1.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1573992199/N32035396V_2.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1573992198/N32035396V_3.jpg"
+        "https://z.nooncdn.com/products/tr:n-t_400/v1606247787/N39843070V_1.jpg",
+        "https://z.nooncdn.com/products/tr:n-t_400/v1606247787/N39843070V_2.jpg",
+        "https://z.nooncdn.com/products/tr:n-t_400/v1606247787/N39843070V_3.jpg"
       ],
       "colors": [
-        "yellow",
-        "black"
+        "blue"
       ],
       "price": 214,
       "discount": 0,
       "currency": "USD",
       "sizes": [
-        "XS",
-        "M"
+        "XS"
       ],
       "status": "new",
-      "quantity": 4,
-      "categoryId": 2,
+      "quantity": 5,
+      "categoryId": 3,
       "type": "T-shirts"
     },
     {
@@ -88,14 +86,14 @@
     },
     {
       "id": 4,
-      "name": "Long Sleeve Blouse",
+      "name": "Dancing Plant Toy",
       "images": [
-        "https://z.nooncdn.com/products/tr:n-t_400/v1614895929/N44817865V_1.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1614895930/N44817865V_2.jpg",
-        "https://z.nooncdn.com/products/tr:n-t_400/v1614895931/N44817865V_3.jpg"
+        "https://z.nooncdn.com/products/tr:n-t_400/v1633593174/N47729493A_1.jpg",
+        "https://z.nooncdn.com/products/tr:n-t_400/v1633593175/N47729493A_2.jpg",
+        "https://z.nooncdn.com/products/tr:n-t_400/v1633593176/N47729493A_5.jpg"
       ],
       "colors": [
-        "black",
+        "blue",
         "white"
       ],
       "price": 214,
@@ -107,8 +105,8 @@
       ],
       "status": "popular",
       "quantity": 4,
-      "categoryId": 2,
-      "type": "Dress shirts"
+      "categoryId": 3,
+      "type": ""
     },
     {
       "id": 5,
